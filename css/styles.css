@@ -2,9 +2,9 @@
   heigth: 100px;
   background-color: wheat;
 }
-.logo h {
+.logo h1 {
   color: blue;
 }
-.donate {
+.donate button{
   padding: 0 5px 0 5px;
 }
